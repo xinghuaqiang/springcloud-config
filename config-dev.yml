@@ -1,2 +1,3 @@
-spring
-  name: springaaaaaaaaaa
+spring:
+  application:
+    name: cloud-config-center
