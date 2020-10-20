@@ -1,5 +1,5 @@
 config: 
-  info: config-info-------------------------------------------version=2
+  info: config-info-------------------------------------------version=3
 eureka:
   client:
     register-with-eureka: true
